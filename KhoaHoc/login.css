@@ -1,0 +1,18 @@
+body {
+  background-image: url(./imgMNM/bgmain.jpg);
+  filter: opacity(50px);
+}
+
+.container {
+  display: flex;
+  justify-content: right;
+  /* Căn giữa theo chiều ngang */
+  margin-right: 200px;
+  align-items: center;
+  /* Căn giữa theo chiều dọc */
+  height: 100vh;
+  width: 100%;
+}
+.form-control{
+  background-color: rgba(58, 57, 56, 0.964);
+}
